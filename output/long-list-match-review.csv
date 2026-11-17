@@ -1,0 +1,221 @@
+company,ticker,best_match_type,n_names,lightcast_names
+WILLIAMS SONOMA INC,WSM,fuzzy,2,Williams-sonoma | Williams-sonoma Inc
+AMAZON COM INC,AMZN,fuzzy,1,Amazon.com Inc
+Consolidated Water Co. Ltd.,CWCO,fuzzy,1,Consolidated Waste
+DARDEN RESTAURANTS INC,DRI,fuzzy,1,Darden Restaurant
+MARKEL GROUP INC.,MKL,fuzzy,1,Markle Group Inc
+MARRIOTT INTERNATIONAL INC /MD/,MAR,fuzzy,1,Marriott International Inc
+Momentus Inc.,MNTS,fuzzy,1,Momentous Llc
+RADIAN GROUP INC,RDN,fuzzy,1,Radiant Group Llc
+ROLLINS INC,ROL,fuzzy,1,Rollings Co
+SIGNET JEWELERS LTD,SIG,fuzzy,1,Signet Jewlers Ltd
+TMD Energy Ltd,TMDE,fuzzy,1,Tm Energy
+High Tide Inc.,HITI,prefix,7,High Tide Cleaning Llc | High Tide Jewels | High Tide Marine | High Tide Marine Service | High Tide Restaurant
+"LGI Homes, Inc.",LGIH,prefix,5,Lgi Homes - Cape Coral | Lgi Homes Arrowhead Reserve | Lgi Homes Mirror Lakes | Lgi Homes Port Charlotte | Lgi Homes Shadow Lakes
+Turtle Beach Corp,TBCH,prefix,3,Turtle Beach Marina | Turtle Beach Pub | Turtle Beach Resort
+AT&T INC.,T; TBB; T-PA; T-PC,prefix,2,At&t Communications Llc | At&t Store
+"LANDS' END, INC.",LE,prefix,2,Lands End Marina | Lands End Village Condo Association
+SHERWIN WILLIAMS CO,SHW,prefix,2,Sherwin-williams | Sherwin Williams Company
+WASTE MANAGEMENT INC,WM,prefix,2,Waste Management - Fort Myers Tse - Alt Fuel Station | Waste Management - Sarasota Valley - Alt Fuel Station
+AMCON DISTRIBUTING CO,DIT,prefix,1,Amcon Distributing Company
+Blue Bird Corp,BLBD,prefix,1,Blue Bird Salon & Boutique
+Cohen & Co Inc.,COHN,prefix,1,Cohen & Cohen Catering
+DEERE & CO,DE,prefix,1,Deere & Company
+Energy Transfer LP,ET; ET-PI,prefix,1,Energy Transfer Operating Lp
+FORD MOTOR CO,F; F-PB; F-PC; F-PD,prefix,1,Ford Motor Company
+GENUINE PARTS CO,GPC,prefix,1,Genuine Parts Company
+Legacy Housing Corp,LEGH,prefix,1,Legacy Housing Services Llc
+PROCTER & GAMBLE Co,PG,prefix,1,The Procter & Gamble Company
+REALTY INCOME CORP,O,prefix,1,Realty Income Properties 19 Ll
+STATE STREET CORP,STT; STT-PG,prefix,1,State Street Eating House
+Warby Parker Inc.,WRBY,prefix,1,Warby Parker Coconut Point
+Western Union CO,WU,prefix,1,Western Union Financial Services Inc
+mF International Ltd,MFI,prefix,1,Mf International Restaurant Inc
+"Compass, Inc.",COMP,manual alias,23,Compass Communities Church | Compass Group | Compass Electric | Compass Church Naples | Compass Real Estate Of Naples - Chloe Bowman
+Sunoco LP,SUN,manual alias,5,Sunoco Gas Station | Sunoco Stop & Shop | Sunoco Aplus | Sunoco Of West Bradenton | Sunoco Auto Clinic
+FirstService Corp,FSV,manual alias,3,First Service | Firstservice Residential Fort Myers | Firstservice Brands Inc
+Aramark,ARMK,manual alias,2,Aramark Uniform Services | Aramark Uniform And Career Apparel Group Inc
+ESAB Corp,ESAB,manual alias,1,Esab Welding Cutting
+Shell plc,SHEL,exact,17,Shell | Shell Plc | Shell Creek Park Campground | Shell Electric Inc | Shell Marco Shelling & Eco Tours
+Walmart Inc.,WMT,exact,11,Walmart | Walmart Inc | Walmart Supercenter | Walmart Neighborhood Market | Walmart Pharmacy
+LENNAR CORP /NEW/,LEN; LEN-B,exact,8,Lennar | Lennar Corp | Lennar At Heritage Landing | Lennar At The Isles At Westport | Lennar Homes
+Apple Inc.,AAPL,exact,7,Apple Inc | Apple Store | Apple Plumbing Inc | Apple Coconut Point | Apple Cont
+BERKSHIRE HATHAWAY INC,BRK-B; BRK-A,exact,7,Berkshire Hathaway | Berkshire Hathaway Energy | Berkshire Hathaway Florida Realty | Berkshire Hathaway Home Services | Berkshire Hathaway Homeservices
+LOWES COMPANIES INC,LOW,exact,7,Lowe's Companies Inc | Lowe's Home Improvement | Lowe's Installation Services | Lowes Proservices | Lowe's Marine Sales
+TARGET CORP,TGT,exact,7,Target | Target Corp | Target Optical | Target Stores T2316 | Target Stores T0818
+"AUTONATION, INC.",AN,exact,5,Autonation Inc | Autonation Parts Center | Autonation Toyota Fort Myers | Autonation Collision Center | Autonation Ford Bradenton
+CHEVRON CORP,CVX,exact,5,Chevron | Chevron Corporation | Chevron Gas | Chevron Tavernier | Chevron Gas Station-mini Mart
+Hilton Grand Vacations Inc.,HGV,exact,5,Hilton Grand Vacations Co | Hilton Grand Vacations | Hilton Grand Vacations Inc | Hilton Grand Vacation | Hilton Grand Vacations Surf Club
+"Tesla, Inc.",TSLA,exact,5,Tesla | Tesla Inc | Tesla Service Center | Tesla Florida | Tesla Collision Repair Llc
+KOHLS Corp,KSS,exact,4,Kohl's Corp | Kohl's Department Store | Kohls Weelborg Ford | Kohl's Mobile Welding Services Llc
+BEST BUY CO INC,BBY,exact,3,Best Buy | Best Buy Co Inc | Best Buy Appliances
+CINTAS CORP,CTAS,exact,3,Cintas Corporation | Cintas Uniform Services | Cintas Uniforms Uniform Services & Work Apparel
+COLUMBIA SPORTSWEAR CO,COLM,exact,3,Columbia Sportswear | Columbia Sportswear Company | Columbia Sportswear Outlet
+"Crocs, Inc.",CROX,exact,3,Crocs | Crocs Inc | Crocs At Ellenton Outlet
+HUBBELL INC,HUBB,exact,3,Hubbell Incorporated | Hubbell Home Services | Hubbell Premise Wiring
+KB HOME,KBH,exact,3,Kb Home | Kb Home Bayshore Commons | Kb Home Coves Tuscany Isles
+LA-Z-BOY INC,LZB,exact,3,La-z-boy Inc | La-z-boy Home Furnishings & Decor | La-z-boy Furniture Galleries
+"NIKE, Inc.",NKE,exact,3,Nike Inc | Nike Factory Store | Nike Incorperated
+STARBUCKS CORP,SBUX,exact,3,Starbucks | Starbucks Corporation | Starbucks On S Tamiami Trl
+"Vera Bradley, Inc.",VRA,exact,3,Vera Bradley | Vera Bradley Inc | Vera Bradley Factory Outlet
+ABERCROMBIE & FITCH CO /DE/,ANF,exact,2,Abercrombie & Fitch | Abercrombie & Fitch Co
+ADVANCE AUTO PARTS INC,AAP,exact,2,Advance Auto Parts | Advance Auto Parts Inc
+AMERICAN EAGLE OUTFITTERS INC,AEO,exact,2,American Eagle Outfitters | American Eagle Outfitters Inc
+AUTOZONE INC,AZO,exact,2,Autozone | Autozone Inc
+"Ameresco, Inc.",AMRC,exact,2,Ameresco | Ameresco Inc
+"Arhaus, Inc.",ARHS,exact,2,Arhaus Inc | Arhaus Furniture
+BUCKLE INC,BKE,exact,2,Buckle | Buckle Inc
+"Bath & Body Works, Inc.",BBWI,exact,2,Bath & Body Works | Bath & Body Works Inc
+"Builders FirstSource, Inc.",BLDR,exact,2,Builders Firstsource | Builders Firstsource Inc
+"Burlington Stores, Inc.",BURL,exact,2,Burlington Stores | Burlington Stores Inc
+CARMAX INC,KMX,exact,2,Carmax | Carmax Inc
+CARTERS INC,CRI,exact,2,Carter's | Carter's Inc
+CATO CORP,CATO,exact,2,The Cato Corporation | Cato Fashions
+CHEESECAKE FACTORY INC,CAKE,exact,2,The Cheesecake Factory | The Cheesecake Factory Incorporated
+CHIPOTLE MEXICAN GRILL INC,CMG,exact,2,Chipotle Mexican Grill | Chipotle Mexican Grill Inc
+COLUMBUS MCKINNON CORP,CMCO,exact,2,Columbus Mckinnon | Columbus Mckinnon Corp
+COPART INC,CPRT,exact,2,Copart | Copart Inc
+"CRACKER BARREL OLD COUNTRY STORE, INC",CBRL,exact,2,Cracker Barrel Old Country Store | Cracker Barrel Old Country Store Inc
+"Childrens Place, Inc.",PLCE,exact,2,The Children's Place | The Children's Place Inc
+Citi Trends Inc,CTRN,exact,2,Citi Trends | Citi Trends Inc
+CubeSmart,CUBE,exact,2,Cubesmart | Cubesmart Self Storage
+Cushman & Wakefield Ltd.,CWK,exact,2,Cushman & Wakefield | Cushman & Wakefield Inc
+"DICK'S SPORTING GOODS, INC.",DKS,exact,2,Dick's Sporting Goods | Dick's Sporting Goods Inc
+"DILLARD'S, INC.",DDS; DDT,exact,2,Dillard's | Dillard's Inc
+DOLLAR GENERAL CORP,DG,exact,2,Dollar General | Dollar General Corp
+"DOLLAR TREE, INC.",DLTR,exact,2,Dollar Tree | Dollar Tree Inc
+Extra Space Storage Inc.,EXR,exact,2,Extra Space Storage | Extra Space Storage Inc
+"FIVE BELOW, INC",FIVE,exact,2,Five Below | Five Below Inc
+GAP INC,GAP,exact,2,Gap | The Gap Inc
+GameStop Corp.,GME,exact,2,Gamestop | Gamestop Corp
+"HARLEY-DAVIDSON, INC.",HOG,exact,2,Harley-davidson Inc | Harley-davidson Of Fort Myers Inc
+"HOME DEPOT, INC.",HD,exact,2,Home Depot | The Home Depot Inc
+KIMCO REALTY CORP,KIM; KIM-PL; KIM-PM; KIM-PN,exact,2,Kimco Realty | Kimco Realty Corporation
+"Krispy Kreme, Inc.",DNUT,exact,2,Krispy Kreme | Krispy Kreme Inc
+LKQ CORP,LKQ,exact,2,Lkq Corporation | Lkq Corp
+Lovesac Co,LOVE,exact,2,Lovesac | The Lovesac Company
+MARINEMAX INC,HZO,exact,2,Marinemax Inc | Marinemax Sarasota
+MCDONALDS CORP,MCD,exact,2,Mcdonald's | Mcdonald's Corporation
+MICROSOFT CORP,MSFT,exact,2,Microsoft Corporation | Microsoft Store
+"MONRO, INC.",MNRO,exact,2,Monro Inc | Monro Auto Service And Tire Center
+MOSAIC CO,MOS,exact,2,Mosaic | Mosaic Inc
+"Macy's, Inc.",M,exact,2,Macy's | Macy's Inc
+Marathon Petroleum Corp,MPC,exact,2,Marathon Petroleum Corp | Marathon Petroleum Corporation
+Murphy USA Inc.,MUSA,exact,2,Murphy Usa | Murphy Usa Inc
+"Planet Fitness, Inc.",PLNT,exact,2,Planet Fitness | Planet Fitness Inc
+RALPH LAUREN CORP,RL,exact,2,Ralph Lauren | Ralph Lauren Corp
+RED ROBIN GOURMET BURGERS INC,RRGB,exact,2,Red Robin Gourmet Burgers Inc | Red Robin Gourmet Burgers And Brews
+REGENCY CENTERS CORP,REG; REGCO; REGCP,exact,2,Regency Centers Corp | Regency Centers Properties
+"ROSS STORES, INC.",ROST,exact,2,Ross Stores | Ross Stores Inc
+SONIC AUTOMOTIVE INC,SAH,exact,2,Sonic Automotive Inc | Sonic Automotive Honda Vw Mini Of Ft Myers
+STERIS plc,STE,exact,2,Steris | Steris Integrated Management Services
+"STEVEN MADDEN, LTD.",SHOO,exact,2,Steven Madden Ltd | Steve Madden
+SUN COMMUNITIES INC,SUI,exact,2,Sun Communities | Sun Communities Inc
+Shake Shack Inc.,SHAK,exact,2,Shake Shack | Shake Shack Inc
+Snap-on Inc,SNA,exact,2,Snap-on | Snap-on Incorporated
+"Sprouts Farmers Market, Inc.",SFM,exact,2,Sprouts Farmers Market | Sprouts Farmers Market Inc
+"Texas Roadhouse, Inc.",TXRH,exact,2,Texas Roadhouse | Texas Roadhouse Inc
+"Toll Brothers, Inc.",TOL,exact,2,Toll Brothers | Toll Brothers Inc
+UNIFIRST CORP,UNF,exact,2,Unifirst | Unifirst Corp
+"UNITED RENTALS, INC.",URI,exact,2,United Rentals | United Rentals Inc
+URBAN OUTFITTERS INC,URBN,exact,2,Urban Outfitters | Urban Outfitters Inc
+"Ulta Beauty, Inc.",ULTA,exact,2,Ulta Beauty | Ulta Beauty Inc
+"Under Armour, Inc.",UAA; UA,exact,2,Under Armour | Under Armour Inc
+VALVOLINE INC,VVV,exact,2,Valvoline Inc | Valvoline Instant Oil Change
+WHIRLPOOL CORP /DE/,WHR; WHR-PA,exact,2,Whirlpool Corp | Whirlpool Authorized Service
+Wendy's Co,WEN,exact,2,Wendy's | The Wendy's Co
+Wingstop Inc.,WING,exact,2,Wingstop | Wingstop Inc
+Xylem Inc.,XYL,exact,2,Xylem Inc | Xylem Ft Myers - Rentals & Sales
+Zumiez Inc,ZUMZ,exact,2,Zumiez | Zumiez Inc
+"ASSURANT, INC.",AIZ; AIZN,exact,1,Assurant Inc
+ATI INC,ATI,exact,1,Ati
+"Albertsons Companies, Inc.",ACI,exact,1,Albertsons Companies Inc
+BASSETT FURNITURE INDUSTRIES INC,BSET,exact,1,Bassett Furniture Industries Inc
+"BJ's Wholesale Club Holdings, Inc.",BJ,exact,1,Bj's Wholesale Club Holdings Inc
+BOX INC,BOX,exact,1,The Box
+BP PLC,BP,exact,1,Bp
+"BRINKER INTERNATIONAL, INC",EAT,exact,1,Brinker International Inc
+BRUNSWICK CORP,BC; BC-PC,exact,1,Brunswick Corp
+BUILD-A-BEAR WORKSHOP INC,BBW,exact,1,Build-a-bear Workshop
+Bowman Consulting Group Ltd.,BWMN,exact,1,Bowman Consulting Group Ltd
+Brookdale Senior Living Inc.,BKD,exact,1,Brookdale Senior Living
+CALERES INC,CAL,exact,1,Caleres Inc
+CARDINAL HEALTH INC,CAH,exact,1,Cardinal Health Inc
+CARRIAGE SERVICES INC,CSV,exact,1,Carriage Services Inc
+CATERPILLAR INC,CAT,exact,1,Caterpillar Inc
+"CAVA GROUP, INC.",CAVA,exact,1,Cava Group Inc
+CGI INC,GIB,exact,1,Cgi Llc
+CHEMED CORP,CHE,exact,1,Chemed Corp
+CHOICE HOTELS INTERNATIONAL INC /DE,CHH,exact,1,Choice Hotels International Inc
+COMMERCIAL METALS Co,CMC,exact,1,Commercial Metals Co
+COSTCO WHOLESALE CORP /NEW,COST,exact,1,Costco Wholesale Corp
+CVS HEALTH Corp,CVS,exact,1,Cvs Health Corporation
+"Cactus, Inc.",WHD,exact,1,Cactus
+"DESTINATION XL GROUP, INC.",DXLG,exact,1,Destination Xl Group Inc
+DOMINOS PIZZA INC,DPZ,exact,1,Domino's Pizza Inc
+Designer Brands Inc.,DBI,exact,1,Designer Brands Inc
+"Dine Brands Global, Inc.",DIN,exact,1,Dine Brands Global Inc
+"EMCOR Group, Inc.",EME,exact,1,Emcor Group Inc
+EQUITY LIFESTYLE PROPERTIES INC,ELS,exact,1,Equity Lifestyle Properties Inc
+EZCORP INC,EZPW,exact,1,Ezcorp Inc
+Ferguson Enterprises Inc. /DE/,FERG,exact,1,Ferguson Enterprises Llc
+"FirstCash Holdings, Inc.",FCFS,exact,1,Firstcash Holdings Inc
+"Fossil Group, Inc.",FOSL,exact,1,Fossil Group Inc
+GENESCO INC,GCO,exact,1,Genesco Inc
+GLOBAL PAYMENTS INC,GPN,exact,1,Global Payments Inc
+GRANITE CONSTRUCTION INC,GVA,exact,1,Granite Construction Inc
+GROUP 1 AUTOMOTIVE INC,GPI,exact,1,Group 1 Automotive Inc
+"Guardian Pharmacy Services, Inc.",GRDN,exact,1,Guardian Pharmacy Services
+HAVERTY FURNITURE COMPANIES INC,HVT; HVT-A,exact,1,Haverty Furniture Companies Inc
+Healthcare Realty Trust Inc,HR,exact,1,Healthcare Realty Trust Inc
+Hyatt Hotels Corp,H,exact,1,Hyatt Hotels Corp
+IDEX CORP /DE/,IEX,exact,1,Idex Corporation
+INTERCONTINENTAL HOTELS GROUP PLC /NEW/,IHG,exact,1,Intercontinental Hotels Group
+Jersey Mike's Subs Inc.,JMKE,exact,1,Jersey Mike's Subs
+Johnson Controls International plc,JCI,exact,1,Johnson Controls International Plc
+KROGER CO,KR,exact,1,The Kroger Co
+"Kontoor Brands, Inc.",KTB,exact,1,Kontoor Brands Inc
+LENNOX INTERNATIONAL INC,LII,exact,1,Lennox International Inc
+LEVI STRAUSS & CO,LEVI,exact,1,Levi Strauss & Co
+"M/I HOMES, INC.",MHO,exact,1,M/i Homes Inc
+MASCO CORP /DE/,MAS,exact,1,Masco Corporation
+MASTEC INC,MTZ,exact,1,Mastec
+"MOLINA HEALTHCARE, INC.",MOH,exact,1,Molina Healthcare Inc
+"Merlin, Inc.",MRLN,exact,1,Merlin Inc
+"Motorola Solutions, Inc.",MSI,exact,1,Motorola Solutions Inc
+NEWELL BRANDS INC.,NWL,exact,1,Newell Brands Inc
+NOVARTIS AG,NVS,exact,1,Novartis Corporation
+"National Vision Holdings, Inc.",EYE,exact,1,National Vision Holdings Inc
+OXFORD INDUSTRIES INC,OXM,exact,1,Oxford Industries Inc
+Otis Worldwide Corp,OTIS,exact,1,Otis Worldwide Corporation
+PAPA JOHNS INTERNATIONAL INC,PZZA,exact,1,Papa John's International Inc
+POOL CORP,POOL,exact,1,Pool Corp
+PPG INDUSTRIES INC,PPG,exact,1,Ppg Industries Inc
+PVH CORP. /DE/,PVH,exact,1,Pvh Corp
+"Petco Health & Wellness Company, Inc.",WOOF,exact,1,Petco Health And Wellness Company Inc
+Public Storage,PSA; PSA-PH; PSA-PU; PSA-PF; PSA-PG; PSA-PI; PSA-PJ; PSA-PK; PSA-PL; PSA-PM; PSA-PN; PSA-PO; PSA-PP; PSA-PQ; PSA-PR; PSA-PS; PSA-PT,exact,1,Public Storage
+REGIS CORP,RGS,exact,1,Regis Corp
+ROPER TECHNOLOGIES INC,ROP,exact,1,Roper Technologies Inc
+RYDER SYSTEM INC,R,exact,1,Ryder System Inc
+SERVICE CORP INTERNATIONAL,SCI,exact,1,Service Corporation International
+SIMON PROPERTY GROUP INC.,SPG; SPG-PJ,exact,1,Simon Property Group Inc
+"STANLEY BLACK & DECKER, INC.",SWK,exact,1,Stanley Black & Decker Inc
+"Sally Beauty Holdings, Inc.",SBH,exact,1,Sally Beauty Holdings Inc
+"SiteOne Landscape Supply, Inc.",SITE,exact,1,Siteone Landscape Supply Inc
+"SmartStop Self Storage REIT, Inc.",SMA,exact,1,Smartstop Self Storage Reit Inc
+"T-Mobile US, Inc.",TMUS; TMUSI; TMUSL; TMUSZ,exact,1,T-mobile Us Inc
+"TAPESTRY, INC.",TPR,exact,1,Tapestry Inc
+TJX COMPANIES INC /DE/,TJX,exact,1,The Tjx Companies Inc
+TRACTOR SUPPLY CO /DE/,TSCO,exact,1,Tractor Supply Co
+Titan America SA,TTAM,exact,1,Titan America Inc
+Torrid Holdings Inc.,CURV,exact,1,Torrid Holdings Inc
+Trane Technologies plc,TT,exact,1,Trane Technologies Plc
+UNILEVER PLC,UL,exact,1,Unilever Plc
+Victoria's Secret & Co.,VSXY,exact,1,Victoria's Secret & Co
+Vulcan Materials CO,VMC,exact,1,Vulcan Materials Co
+WATSCO INC,WSO; WSO-B,exact,1,Watsco Inc
+WINMARK CORP,WINA,exact,1,Winmark Corp
+WOLVERINE WORLD WIDE INC /DE/,WWW,exact,1,Wolverine World Wide Inc
+"WW INTERNATIONAL, INC.",WW,exact,1,Ww International Inc
+"WYNDHAM HOTELS & RESORTS, INC.",WH,exact,1,Wyndham Hotels & Resorts Inc
+"Xponential Fitness, Inc.",XPOF,exact,1,Xponential Fitness Inc

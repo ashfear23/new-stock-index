@@ -1,0 +1,89 @@
+prefix,company,ticker,n_names,examples
+SOUTHERN,SOUTHERN CO,SO; SOJC; SOJD; SOJE; SOJF; SOMN,125,Southern Speedway And Events | Southern Design Home Builders Inc | Southern Design Living | Southern Land Developers | Southern Coast Softwash Inc
+POOL,POOL CORP,POOL,51,Pool One Plastering Division Inc | Pool Boy Inc | Pool Sharks Of Lemon Bay Inc | Pool Products Direct | Pool & Patio Concepts Llc
+TEAM,TEAM INC,TISI,26,Team Punta Gorda | Team C Sports | Team Elite Fishing Charters | Team John Garuti Exp Realty | Team Marco Kw Realty
+DAVE,Dave Inc./DE,DAVE; DAVEW,19,Dave Beck Handyman Llc | Dave At Easyclippers | Dave Siler Bobcat Service | Dave Thomas Construction | Dave & Ann Renner
+MERIDIAN,Meridian Corp,MRBK,12,Meridian Club | Meridian Cafe | Meridian Place Owners Association Inc | Meridian Construction Group Llc | Meridian Construction Consultants
+WATERS,WATERS CORP /DE/,WAT,12,Waters Edge Rv Resort | Waters Edge At Heritage Oak Park | Waters Edge Pools | Waters Edge By Pulte Homes | Waters Edge Real Estate Llc
+NICE,NICE Ltd.,NICE,10,Nice Ice | Nice Guys Production | Nice Guys Pizza | Nice Asian Massage | Nice Massage
+ROGERS,ROGERS CORP,ROG,9,Rogers Engine Works | Rogers Rogers Restaurant Group Llc | Rogers Auto | Rogers & Bronson Services Llc | Rogers Burks Inc
+ALICO,"ALICO, INC.",ALCO,7,Alico Arena | Alico Metal Fabricators | Alico Center Auto & Tire Service | Alico Truck Center | Alico Liquor In Three Oaks Town Center
+NOVA,NOVA LTD.,NVMI,7,Nova Homes Of South Fl | Nova Hom Of South Fl | Nova Concept Construction Llc | Nova Electrical Contractors Inc | Nova Construction Roofing
+DANA,DANA Inc,DAN,6,Dana Hile Coldwell Banker Realty | Dana Vannatta | Dana Flowers Inc | Dana Site Development & Paving Inc | Dana Tyler
+FLEX,FLEX LTD.,FLEX,6,Flex Bon Paints | Flex Hydraulics | Flex Pressure Washing Llc | Flex Key West Llc | Flex Key West
+ALLSTATE,ALLSTATE CORP,ALL; ALL-PH; ALL-PB; ALL-PI; ALL-PJ,5,Allstate Mechanical Of Sw Fl Inc | Allstate Business Consultants Of Southwest Florida | Allstate Property Services Inc | Allstate Tiles | Allstate Realty Associates
+DELUXE,DELUXE CORP,DLX,5,Deluxe Plastic Card Co | Deluxe Nail Spa | Deluxe Auto Body Repair Transmission & More Llc | Deluxe Inn | Deluxe Body Shop
+LARGO,Largo Inc.,LGO,5,Largo Management Company Inc | Largo Cargo Co | Largo Resort | Largo Reef Diving | Largo Park
+NOBLE,Noble Corp plc,NE; NE-WT; NE-WTA,5,Noble Auto Sales | Noble Automatics Cerakote Laser | Noble Title & Trust | Noble Cooling Inc | Noble House Hotels & Resorts
+QUANTUM,QUANTUM CORP /DE/,QMCO,5,Quantum Orthotics Brace | Quantum Healing Center | Quantum Faith Inc | Quantum Auto Body Services | Quantum Dent Repair
+ADOBE,ADOBE INC.,ADBE,4,Adobe Gilas Of Orlando | Adobe Blues | Adobe Graffiti Lounge Kava Bar | Adobe Realty Inc
+ALEXANDERS,ALEXANDERS INC,ALX,4,Alexanders Optical | Alexander's Wood Floors | Alexanders Painting Llc | Alexander's Guesthouse
+CAMPBELLS,CAMPBELL'S Co,CPB,4,Campbell's Upholstering | Campbells Ornamental Inc | Campbells Auto Center | Campbells Custom Carpet Inc
+FERRARI,Ferrari N.V.,RACE,4,Ferrari Partners Lp | Ferrari Fitness | Ferrari Fitness Programs | Ferrari Drivers Group Sarasota
+MARCUS,MARCUS CORP,MCS,4,Marcus Davis Partners | Marcus Daniel Inc | Marcus Office Fort Myers | Marcus Real Estate
+ORACLE,ORACLE CORP,ORCL; ORCL-PD,4,Oracle Elevator | Oracle Appliance | Oracle Flooring & Design | Oracle Elevator Company
+AZUL,AZUL SA,AZUL,3,Azul Del Mar | Azul Key West | Azul Steak & Sushi Lounge
+BANNER,BANNER CORP,BANR,3,Banner Aluminum & Vinyl | Banner Pool Service | Banner Pool Svc
+CACTUS,"Cactus, Inc.",WHD,3,Cactus Mex Inc | Cactus Truck | Cactus Jack's Southwestern Bar
+GRAVITY,"GRAVITY Co., Ltd.",GRVY,3,Gravity Produce Llc | Gravity Pole Fitness | Gravity Fitness
+HAWKINS,HAWKINS INC,HWKN,3,Hawkins Inc Bp 75 | Hawkins Inc Bp 79 | Hawkins Door Service
+ICON,ICON PLC,ICLR,3,Icon Management Services | Icon Realty | Icon Floors Llc
+MORNINGSTAR,"Morningstar, Inc.",MORN,3,Morningstar Music | Morningstar Baptist Church Of Ft Myers | Morningstar Baptist Church
+ORION,Orion S.A.,OEC,3,Orion Technology Solutions | Orion Fuels | Orion Food Systems Llc
+STRYKER,STRYKER CORP,SYK,3,Stryker Remodeling | Stryker Ortopedics | Stryker Construction Service Llc
+WENDYS,Wendy's Co,WEN,3,Wendy's Auto Sales | Wendy's Nails | Wendy's Perfumes &accessorios Llc
+ZEDGE,"Zedge, Inc.",ZDGE,3,Z-edge Piercing Inc | Zedge Tattoos Body Piercing South | Zedge Tattoo Body Piercing Venice
+ANDERSONS,"Andersons, Inc.",ANDE,2,Andersons Tackle Inc | Andersons Auto Repair
+ASHLAND,ASHLAND INC.,ASH,2,Ashland 2 Partners | Ashland Investments
+BALL,BALL Corp,BALL,2,Ball Construction Inc | Ball Contracting Company
+BLACKSTONE,Blackstone Inc.,BX,2,Blackstone Park | Blackstone Shoes
+BRADY,BRADY CORP,BRC,2,Brady Enterprises Llc | Brady Pressure Washing
+CARNIVAL,Carnival Corp Ltd.,CCL,2,Carnival Kicks | Carnival Grocery
+EASTERN,EASTERN CO,EML,2,Eastern Music Supply | Eastern Benefits
+EATON,Eaton Corp plc,ETN,2,Eaton Air Conditioning Inc | Eaton Street Seafood Market
+FIGS,"FIGS, Inc.",FIGS,2,Figs Bistro | Figs Grille
+GRAHAM,GRAHAM CORP,GHM,2,Graham Pool Service | Graham Electric
+LINDSAY,LINDSAY CORP,LNN,2,Lindsay Leasing | Lindsay Leasing Llc
+MERLIN,"Merlin, Inc.",MRLN,2,Merlin Guest House Key West | Merlin R Tabacco
+OSHKOSH,OSHKOSH CORP,OSK,2,Oshkosh Nanotechnology Llc | Oshkosh B'gosh
+PEOPLE,People Inc,PPLI,2,People Italian Restaurant | People At Play
+POLARIS,Polaris Inc.,PII,2,Polaris Roofing | Polaris Property Management Inc
+PRUDENTIAL,PRUDENTIAL PLC,PUK,2,Prudential Florida Wci Realty | Prudential Florida Realty
+RELIANCE,"RELIANCE, INC.",RS,2,Reliance Builders Llc | Reliance Air Services Inc
+SINCLAIR,"Sinclair, Inc.",SBGI,2,Sinclair Custom Homes Inc | Sinclair Custom Homes
+SNAP,Snap Inc,SNAP,2,Snap Fitness | Snap Lites Wig Accessories
+STEM,"STEM, INC.",STEM,2,Stem Martial Arts | The Stem Of Things Design Studio
+TORO,TORO CO,TTC; TORO,2,Toro Slingshot Rentals Of Swfl | Toro Blanco Construction Llc
+VERTEX,"Vertex, Inc.",VERX,2,Vertex Drywall Inc | Vertex Florida General Construction Corp
+ALSET,Alset Inc.,AEI,1,Alset Collision Center Llc
+BARCLAYS,BARCLAYS PLC,BCS,1,Barclays Real Estate Group
+BARK,"Bark, Inc.",BARK,1,Bark Social Club
+BUMBLE,Bumble Inc.,BMBL,1,Bumble & Bumble
+CANAAN,Canaan Inc.,CAN,1,Canaan M Johnson
+COMCAST,COMCAST CORP,CMCSA; CCZ,1,Comcast Locksmith
+CRANE,Crane Co,CR,1,Crane Pt Museum & Nature Center
+DOLE,Dole plc,DOLE,1,Dole Automotive
+DONALDSON,DONALDSON Co INC,DCI,1,Donaldson Real Estate
+FRONTLINE,Frontline plc,FRO,1,Frontline Maritime
+GOGO,Gogo Inc.,GOGO,1,Gogo Subs Llc
+HARMONIC,HARMONIC INC.,HLIT,1,Harmonic Alignment Healing Arts
+IMMERSION,IMMERSION CORP,IMMR,1,Immersion Massage And Skincare
+INTERGROUP,INTERGROUP CORP,INTG,1,Intergroup Service Commitee Of
+KEMPER,KEMPER Corp,KMPR; KMPB,1,Kemper Fried
+KINGSWAY,KINGSWAY Corp,KWY,1,Kingsway Paver
+KIRBY,KIRBY CORP,KEX,1,Kirby Storter Roadside Park
+KNOWLES,Knowles Corp,KN,1,Knowles House
+MASCO,MASCO CORP /DE/,MAS,1,Masco Tile & Brick Inc
+MAXIMUS,"MAXIMUS, INC.",MMS,1,Maximus Auto Group
+PARSONS,PARSONS CORP,PSN,1,Parsons Boom Lift Rental
+PEARSON,PEARSON PLC,PSO,1,Pearson Larry A/c & Heating
+POPULAR,"POPULAR, INC.",BPOP; BPOPM,1,Popular House
+REEDS,"REED'S, INC.",REED,1,Reeds And Wrights Books
+REGIS,REGIS CORP,RGS,1,Regis Construction
+SEABOARD,SEABOARD CORP /DE/,SEB,1,Seaboard Office Park
+SNOWFLAKE,Snowflake Inc.,SNOW,1,Snowflake Entertainment Llc
+SOLANA,Solana Co,HSDT,1,Solana Hlth & Functional Nutrition
+SPIRE,SPIRE INC,SR; SRJN,1,Spire Electric Inc
+TIDEWATER,TIDEWATER INC,TDW,1,Tidewater By Del Webb Hoa
+TILLYS,"TILLY'S, INC.",TLYS,1,Tillys Tap
+WOODWARD,"Woodward, Inc.",WWD,1,Woodward Manor
